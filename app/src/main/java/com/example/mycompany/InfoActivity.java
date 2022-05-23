@@ -15,7 +15,7 @@ public class InfoActivity extends AppCompatActivity implements View.OnClickListe
     int imgs[] = {R.drawable.info1, R.drawable.info2, R.drawable.info3,
                     R.drawable.info4, R.drawable.info5};
     String txts[] = {"우리회사는 안전관리를 위해..." ,
-                     "2번째 설명" , "3번째 설명" , "4번째설명", "5번째 설명"};
+                     "2번째 설명입니다." , "3번째 설명" , "4번째설명", "5번째 설명"};
     ImageView img_info;
     TextView txt_info;
     Button btn_info_back;
